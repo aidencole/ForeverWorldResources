@@ -28,7 +28,7 @@
 		},
 		"head": {
 			"rotation": [3, 0, 0],
-			"translation": [0, 20.85, 0],
+			"translation": [0, 80, 0],
 			"scale": [1.99, 1.99, 1.99]
 		}
 	},
