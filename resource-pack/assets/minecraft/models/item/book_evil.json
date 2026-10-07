@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"5": "item/evil",
+		"0": "item/evil",
 		"particle": "block/evil"
 	},
 	"elements": [
