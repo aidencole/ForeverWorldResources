@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"5": "Default",
-		"particle": "Default"
+		"5": "item/fingers",
+		"particle": "fingers"
 	},
 	"elements": [
 		{
