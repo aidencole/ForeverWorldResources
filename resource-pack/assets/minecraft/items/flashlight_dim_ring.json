@@ -7,7 +7,7 @@
         "when": "firstperson_lefthand",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/flashlight_overlay2_ring"
+          "model": "minecraft:item/flashlight_dim_ring"
         }
       }
     ],
